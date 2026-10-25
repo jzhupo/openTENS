@@ -1,0 +1,10 @@
+{
+    "name": "Protothreads",
+    "version": "1.4.0",
+    "description": "A very light-weight, stackless cooperatively multitasked thread library written in pure C.",
+	"homepage": "https://dunkels.com/adam/pt",
+    "license": "BSD",
+    "platforms": ["ststm32"],
+    "frameworks": ["*"],
+    "headers": ["pt.h"]
+}
